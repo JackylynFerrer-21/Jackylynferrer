@@ -1,0 +1,44 @@
+body {
+    background-image: url("pexels-gradienta-7130498.jpg");
+    background-position: fixed;
+    background-attachment: fixed; 
+  
+  }
+body {
+    margin-left: 50%;
+    margin-right: 50%;
+  }
+  h1 {
+    color: black;
+    text-align:left;
+  }
+  h2 {
+    color: crimson;
+  }
+  h2 {
+    color: crimson;
+  }
+  p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+  }
+  img {
+    float: right;
+    
+  }
+ body{
+  border: 30px solid gray;
+  margin: 60;  
+  padding: 10px;
+  text-align: left;
+}
+td.justi{
+  text-align: justify;
+  font-style: italic;
+}
+td.jack{
+  text-indent: 40px;
+}
+
+
+
